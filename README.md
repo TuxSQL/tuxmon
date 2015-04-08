@@ -2,7 +2,7 @@
 
 A simple top-like monitoring tool for Oracle Tuxedo
 
-![tuxmon](http://tuxsql.com/img/portfolio/tuxmon.png)
+![tuxmon](http://tuxsql.com/img/portfolio/tuxmon.png#0)
 
 ## Information fields
 
