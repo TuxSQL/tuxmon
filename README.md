@@ -1,6 +1,4 @@
-# TuxMon
-
-A simple top-like monitoring tool for Oracle Tuxedo
+# TuxMon - A simple top-like monitoring tool for Oracle Tuxedo IPC queues and servers
 
 ![tuxmon](http://tuxsql.com/img/portfolio/tuxmon.png#0)
 
